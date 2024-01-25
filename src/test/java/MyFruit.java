@@ -11,3 +11,4 @@ public enum MyFruit {
         return 4* Math.PI*(r*r);
     }
 }
+// Try to do smth..
